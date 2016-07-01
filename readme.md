@@ -1,5 +1,5 @@
 # CFG-GENERATOR
-[PersonalCopy]
+[Cloned]
 This project is a code graph tool in the making! The code graph tool will(hopefully) be able to take in a java source code file
 and create a CFG (Control Flow Graph).
 
