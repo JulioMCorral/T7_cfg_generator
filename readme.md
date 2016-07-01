@@ -43,8 +43,8 @@ mvn clean install
 
 ## Neatbeans
 
-#####At netbens menu bar: Team->Git->Clone
-Paste github project in the 'Repository URL' field
-Follow the wizard and click next
-Right click in the project (at the left panel) and select 'Clean and Build'
-Main class located in Source Packege... You can use the Test package as well
+######At netbens menu bar: Team->Git->Clone
+######Paste github project in the 'Repository URL' field
+######Follow the wizard and click next
+######Right click in the project (at the left panel) and select 'Clean and Build'
+######Main class located in Source Packege... You can use the Test package as well
