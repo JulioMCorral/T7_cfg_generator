@@ -4,11 +4,6 @@ This project is a code graph tool in the making! The code graph tool will(hopefu
 and create a CFG (Control Flow Graph).
 
 
-## Features
-
-*   Light weight
-*   Easy to use
-*   Create CFG from scratch
 
 
 ## Dependency Management
@@ -46,4 +41,10 @@ If you have checkout the project from GitHub you can build the project with mave
 mvn clean install
 ```
 
+## Neatbeans
 
+At netbens menu bar: Team->Git->Clone
+Paste github project in the 'Repository URL' field
+Follow the wizard and click next
+Right click in the project (at the left panel) and select 'Clean and Build'
+Main class located in Source Packege... You can use the Test package as well
